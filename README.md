@@ -3,7 +3,7 @@
 # Problem Description:
 MEMS scanners (Micro-Electro-Mechanical Systems) are crucial in many applications. The speed and scanning angle of a MEMS scanner significantly influence its performance and applicability.
 A specific type of MEMS scanner, operating with a smaller scanning angle but higher speed (MEMS-F), has been studied. This study showed that the operating frequency of 
-![](https://github.com/iBehave-eLab/Notch-Filter-For-Mirrorcle-MEMS-Drivers/blob/main/Pic/Working%20frequency%20analysis.png)
+
 these scanners can be divided into two regions:
 ## Operating Region Below the Damped Oscillator Frequency:
 In this region, which lies below the system's natural oscillator frequency, the operation of the MEMS scanner is stable and does not endanger the physical integrity of the mirror.
