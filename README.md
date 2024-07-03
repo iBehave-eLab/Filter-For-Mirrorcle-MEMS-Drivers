@@ -6,7 +6,8 @@ A specific type of MEMS scanner, operating with a smaller scanning angle but hig
 ![](https://github.com/iBehave-eLab/Notch-Filter-For-Mirrorcle-MEMS-Drivers/blob/main/Pic/Working%20frequency%20analysis.png)
 _Working frequency analysis for two types of MEMS scanners, one with a larger scanning
 angle but slower speed (MEMS-L), and the other with smaller scanning angle but faster speed
-(MEMS-F)_
+(MEMS-F). The source:Weijian Zong, Horst A. Obenhaus, Emilie R. Skytøen, Hanna Eneqvist, Nienke L. de
+Jong, Ruben Vale, Marina R. Jorge, May-Britt Moser, and Edvard I. Moser, "Large-scale two-photon calcium imaging in freely moving mice"_
 ## Operating Region Below the Damped Oscillator Frequency:
 In this region, which lies below the system's natural oscillator frequency, the operation of the MEMS scanner is stable and does not endanger the physical integrity of the mirror.
 
