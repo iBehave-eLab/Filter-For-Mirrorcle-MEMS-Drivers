@@ -15,7 +15,7 @@ To solve this problem, it was proposed to develop a notch filter for the MEMS dr
 
 ## Repository structure
 
-|---Pic<pre>Pictures</pre>
+|---Pic<pre>Pictures
 |---Board and Circuit Design                                      
 |   |---MEMS Notch Filter Schematic         KiCad files for notch filter                                                            
 |   |---MEMS Notch Filter Board        
